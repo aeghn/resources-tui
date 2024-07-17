@@ -6,3 +6,4 @@ pub mod ring;
 pub mod sensor;
 pub mod tarits;
 pub mod view;
+pub mod utils;
